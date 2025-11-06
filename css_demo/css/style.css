@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+}
+
+.container{
+    background-color:aliceblue;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 1px;
+}
+.nav{
+    list-style:none;
+    text-align:center;
+
+}
+
+.nav li{
+    display:inline;
+    margin-right: 20px
+}
+
+.copy{
+    text-align:center;
+    background-color:brown;
+}
+
+#span1 {
+    color: red;
+    font-family: 'Bitcount';font-size: 22px;
+}
+#span2 {
+    font-size: 50 px;
+}
